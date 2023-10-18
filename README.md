@@ -1,6 +1,6 @@
- # Resume of basic ruby projects : 
+ # Resume of basic ruby projects :
 > In this repo i try to solve some of the basic ruby projects of the Odin Learning roadmap
-## Exercises : 
+## Exercises :
 1. Substring method
 2. Stock picker
 3. Bubble sort
