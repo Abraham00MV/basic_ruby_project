@@ -1,6 +1,5 @@
 
 def word_finder(sentence,dictionary)
-    
 	sentence = sentence.split(/ |, /)
 
  result_matches = sentence.reduce(Hash.new(0)) do |match_words, word|
