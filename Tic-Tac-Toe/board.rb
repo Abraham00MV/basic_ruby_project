@@ -3,7 +3,6 @@ require_relative 'Player'
 
 class Board
   def initialize
-    @cells = (1..9).to_a # cells attribute is an array of 9 number positions
   end
 
   def valid_move?(move) #method to determine if the current player makes a valid move
